@@ -1200,6 +1200,7 @@ Tooltips / popovers
  - [vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight) - Text highlighter library for Vue.js 💄
  - [vue2-hammer](https://github.com/bsdfzzzy/vue2-hammer) Hammer.js wrapper for Vue 2.x to support mobile touch..
  - [vue-countable](https://github.com/johndatserakis/vue-countable) - Vue binding for countable.js. Provides real-time paragraph, sentence, word, and character counting.
+ - [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - Vue terminal UI 🖥 emulator component. Basic commands  plus extendabe promise-based custom ones.
 
 
 ### Tabs
